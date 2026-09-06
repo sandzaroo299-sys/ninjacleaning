@@ -1,4 +1,3 @@
-// static/app.js
 const tg = window.Telegram?.WebApp;
 let currentUser = null;
 
