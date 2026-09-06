@@ -1,3 +1,4 @@
+alert('Telegram WebApp: ' + (window.Telegram ? 'есть' : 'нет'));
 const tg = window.Telegram?.WebApp;
 let currentUser = null;
 
